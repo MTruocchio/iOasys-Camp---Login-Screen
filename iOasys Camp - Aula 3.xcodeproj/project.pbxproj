@@ -14,6 +14,7 @@
 		00B981B4260BC7CB0087040D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00B981B3260BC7CB0087040D /* Assets.xcassets */; };
 		00B981B7260BC7CB0087040D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00B981B5260BC7CB0087040D /* LaunchScreen.storyboard */; };
 		00B981C1260C3D600087040D /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 00B981C0260C3D600087040D /* logo.png */; };
+		00B981C4260E15410087040D /* WellcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00B981C3260E15410087040D /* WellcomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		00B981B6260BC7CB0087040D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00B981B8260BC7CB0087040D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00B981C0260C3D600087040D /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		00B981C3260E15410087040D /* WellcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WellcomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				00B981B3260BC7CB0087040D /* Assets.xcassets */,
 				00B981B5260BC7CB0087040D /* LaunchScreen.storyboard */,
 				00B981B8260BC7CB0087040D /* Info.plist */,
+				00B981C3260E15410087040D /* WellcomeViewController.swift */,
 			);
 			path = "iOasys Camp - Aula 3";
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				00B981AF260BC7CA0087040D /* ViewController.swift in Sources */,
 				00B981AB260BC7CA0087040D /* AppDelegate.swift in Sources */,
+				00B981C4260E15410087040D /* WellcomeViewController.swift in Sources */,
 				00B981AD260BC7CA0087040D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
